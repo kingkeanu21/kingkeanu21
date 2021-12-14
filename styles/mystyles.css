@@ -1,0 +1,31 @@
+/*Josh Birchall*/
+body{
+    background-image:url(../images/background.jpg)
+}
+
+.footer{
+    text-align: center;
+}
+
+.bold{font-weight: bold;}
+
+.anchor{
+    text-align: center;
+    font-weight: 300;
+    margin: 0 0 10px;
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+h5{
+    font-family: Lora;
+    text-align: center;
+    font-size: 30px;
+    border-top: 2px; 
+    color:black
+    
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
